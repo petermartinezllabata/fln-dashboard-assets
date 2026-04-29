@@ -1,9 +1,0 @@
-fln-dashboard-assets/
-├─ docs/
-│  ├─ icons/
-│  │  ├─ sdg01_grey.svg
-│  │  ├─ sdg01_blue.svg
-│  │  ├─ sdg02_grey.svg
-│  │  ├─ sdg02_blue.svg
-│  │  └─ ...
-│  └─ index.html
